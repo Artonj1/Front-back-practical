@@ -1,16 +1,12 @@
 body {
   margin: 0;
-  font: 'Times New Roman';
+  font-family: 'Times New Roman', Times, serif;
   line-height: 1.5;
   background-color: #7385cd;
 }
 
-header{
-    font: 'Times New Roman';
-}
-main{
-    font: 'Times New Roman';
-}
+header,
+main,
 footer {
   padding: 20px;
 }
